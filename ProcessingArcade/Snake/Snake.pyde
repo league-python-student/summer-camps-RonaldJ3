@@ -18,7 +18,7 @@ def setup():
     frameRate(15 + food_eaten)
     
     # 1. Use size(width, height) to set the width and height of the window
-    #size(800, 600
+    #size(800, 600)
     
     # 2. Initialize the 'snake_head' variable using the Segment class to a new snake segment.
     #snake_head = Segment(x, y)
